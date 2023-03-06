@@ -1,0 +1,16 @@
+C:\Users\Marko29\source\repos\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.exe.config
+C:\Users\Marko29\source\repos\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.exe
+C:\Users\Marko29\source\repos\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\SimpleMediaPlayer.pdb
+C:\Users\Marko29\source\repos\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.AssemblyReference.cache
+C:\Users\Marko29\source\repos\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marko29\source\repos\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.Form1.resources
+C:\Users\Marko29\source\repos\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.Properties.Resources.resources
+C:\Users\Marko29\source\repos\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.GenerateResource.cache
+C:\Users\Marko29\source\repos\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Marko29\source\repos\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.exe
+C:\Users\Marko29\source\repos\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.pdb
+C:\Users\Marko29\source\repos\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Marko29\source\repos\SimpleMediaPlayer\SimpleMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Marko29\source\repos\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Marko29\source\repos\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Marko29\source\repos\SimpleMediaPlayer\SimpleMediaPlayer\obj\Debug\SimpleMediaPlayer.csproj.ResolveComReference.cache
